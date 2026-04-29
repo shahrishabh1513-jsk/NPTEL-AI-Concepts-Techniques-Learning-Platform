@@ -82,11 +82,11 @@ If this repository helped you:
 
 <p align="left">
   <a href="https://github.com/shahrishabh1513-jsk">
-    <img src="https://www.flaticon.com/free-icon/github_2504911?term=github&page=1&position=4&origin=search&related_id=2504911" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504911.png" width="45"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rishabh-alpeshabhai-shah-91b9072a6/">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="45"/>
   </a>
 </p>
 
