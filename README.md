@@ -28,8 +28,12 @@ These resources helped me **revise efficiently** and **score well in the final e
 
 | 📁 File/Folder | 📄 Description |
 |---------------|--------------|
-| Weekwise Summary.pdf | Concise chapter-wise summary of all weeks |
-| Artificial Intelligence.pdf | Solutions submitted for weekly assignments |
+| [📘 Weekwise Summary Folder](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/tree/main/Weekwise%20Summary) | Contains all week-wise notes |
+| [Week 1 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_1_Artificial_Intelligence_Notes.pdf) | Introduction to Artificial Intelligence |
+| [Week 2 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_2_Artificial_Intelligence_Notes.pdf) | Core AI concepts |
+| [Week 3 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_3_Artificial_Intelligence_Notes.pdf) | Intermediate topics |
+| [Week 4 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_4_Artificial_Intelligence_Notes.pdf) | Advanced concepts |
+| [📝 Assignment Solutions](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Artificial%20Intelligence%20notes.pdf) | Submitted assignment solutions |
 
 ---
 
