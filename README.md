@@ -33,6 +33,7 @@ These resources helped me **revise efficiently** and **score well in the final e
 | [Week 2 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_2_Artificial_Intelligence_Notes.pdf) | Core AI concepts |
 | [Week 3 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_3_Artificial_Intelligence_Notes.pdf) | Intermediate topics |
 | [Week 4 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_4_Artificial_Intelligence_Notes.pdf) | Advanced concepts |
+| [Week 5 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_5_Artificial_Intelligence_Notes.pdf) | Expert Systems & Planning |
 | [📝 Assignment Solutions](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Artificial%20Intelligence%20notes.pdf) | Submitted assignment solutions |
 
 ---
