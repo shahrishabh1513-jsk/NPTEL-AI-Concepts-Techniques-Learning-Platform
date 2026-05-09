@@ -37,7 +37,9 @@ These resources helped me **revise efficiently** and **score well in the final e
 | [Week 6 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_6_Artificial_Intelligence_Notes.pdf) | Knowledge Representation & Uncertainty |
 | [Week 7 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_7_Artificial_Intelligence_Notes.pdf) | Bayesian Networks & Decision Theory |
 | [Week 8 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_8_Artificial_Intelligence_Notes.pdf) | Learning Algorithms & Neural Networks |
+| [Week 9 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_9_Artificial_Intelligence_Notes.pdf) | Neural Networks & Hypothesis Learning |
 | [📝 Assignment Solutions](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Artificial%20Intelligence%20notes.pdf) | Submitted assignment solutions |
+
 
 ---
 
