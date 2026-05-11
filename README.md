@@ -39,7 +39,7 @@ These resources helped me **revise efficiently** and **score well in the final e
 | [Week 8 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_8_Artificial_Intelligence_Notes.pdf) | Learning Algorithms & Neural Networks |
 | [Week 9 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_9_Artificial_Intelligence_Notes.pdf) | Neural Networks & Hypothesis Learning |
 | [Week 10 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_10_Artificial_Intelligence_Notes.pdf) | Deep Learning, CNN, RNN & GANs |
-| [Week 11 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_10_Artificial_Intelligence_Notes.pdf) | Transformers, Generative AI & Fuzzy Systems |
+| [Week 11 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_11_Artificial_Intelligence_Notes.pdf) | Transformers, Generative AI & Fuzzy Systems |
 | [📝 Assignment Solutions](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Artificial%20Intelligence%20notes.pdf) | Submitted assignment solutions |
 
 
