@@ -53,6 +53,7 @@ All notes are written in a **simple and structured format** for efficient learni
 | [📖 Week 9 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_9_Artificial_Intelligence_Notes.pdf) | Neural Networks & Hypothesis Learning |
 | [📖 Week 10 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_10_Artificial_Intelligence_Notes.pdf) | Deep Learning, CNN, RNN & GANs |
 | [📖 Week 11 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_11_Artificial_Intelligence_Notes.pdf) | Transformers, Generative AI & Fuzzy Systems |
+| [📖 Week 12 Notes](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Weekwise%20Summary/Week_12_Artificial_Intelligence_Notes.pdf) | NLP, Ethics, SI & MAS |
 | [📝 Assignment Solutions](https://github.com/shahrishabh1513-jsk/NPTEL-AI-Concepts-Techniques-Learning-Platform/blob/main/Artificial%20Intelligence%20notes.pdf) | Assignment solution PDFs |
 
 ---
