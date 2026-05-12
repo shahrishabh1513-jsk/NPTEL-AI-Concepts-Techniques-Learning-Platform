@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Learning Platform | Rishabh Shah</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #eef7f6;
+            --sidebar-white: #ffffff;
+            --accent-teal: #4db6ac;
+            --text-dark: #2c3e50;
+            --card-science: #e0f2f1;
+            --card-maths: #fce4ec;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: var(--bg-color);
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            width: 95%;
+            max-width: 1200px;
+            height: 85vh;
+            background: white;
+            border-radius: 40px;
+            display: flex;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.05);
+        }
+
+        /* Left Side Nav */
+        .side-nav {
+            width: 100px;
+            border-right: 1px solid #f0f0f0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 30px 0;
+        }
+
+        .nav-item {
+            margin: 20px 0;
+            text-align: center;
+            font-size: 0.7rem;
+            color: #bdc3c7;
+            cursor: pointer;
+        }
+
+        .nav-item.active { color: var(--accent-teal); border-left: 4px solid var(--accent-teal); width: 100%; }
+
+        /* Main Dashboard Area */
+        .main-content {
+            flex: 1;
+            padding: 40px;
+            overflow-y: auto;
+        }
+
+        .welcome-text h1 { margin: 0; color: var(--text-dark); font-size: 2rem; }
+        .welcome-text p { color: #7f8c8d; margin-top: 5px; }
+
+        .search-box {
+            background: #f8f9fa;
+            border: none;
+            padding: 15px;
+            width: 100%;
+            border-radius: 12px;
+            margin: 25px 0;
+        }
+
+        .stat-cards {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .card {
+            padding: 25px;
+            border-radius: 25px;
+            position: relative;
+        }
+
+        .card.science { background: var(--card-science); }
+        .card.maths { background: var(--card-maths); }
+
+        /* Right Content Panel (The Table of Contents) */
+        .content-panel {
+            width: 380px;
+            background: white;
+            border-left: 1px solid #f0f0f0;
+            padding: 30px;
+            overflow-y: auto;
+        }
+
+        .user-profile {
+            display: flex;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .user-profile img {
+            width: 50px; height: 50px;
+            border-radius: 50%;
+            margin-right: 15px;
+            border: 2px solid var(--accent-teal);
+        }
+
+        .toc-header h3 { color: var(--accent-teal); margin-bottom: 20px; }
+
+        .pdf-link {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            color: inherit;
+            padding: 12px;
+            border-radius: 15px;
+            transition: background 0.3s;
+            margin-bottom: 10px;
+        }
+
+        .pdf-link:hover { background: #f0f9f8; }
+
+        .week-num {
+            font-size: 1.8rem;
+            font-weight: 600;
+            color: #e0e0e0;
+            margin-right: 20px;
+            min-width: 45px;
+        }
+
+        .file-info strong { font-size: 0.85rem; color: #34495e; }
+        .file-info div { font-size: 0.75rem; color: #95a5a6; }
+
+        /* Footer Social Media */
+        footer {
+            margin-top: 40px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="side-nav">
+        <div class="nav-item">🎓<br>Courses</div>
+        <div class="nav-item active">🏠<br>Dashboard</div>
+        <div class="nav-item">📅<br>Schedule</div>
+        <div class="nav-item">💬<br>Chat</div>
+    </div>
+
+    <div class="main-content">
+        <div class="welcome-text">
+            <h1>Hey Rishabh,</h1>
+            <p>Let's find a perfect course for your career</p>
+        </div>
+
+        <input type="text" class="search-box" placeholder="🔍 Search modules...">
+
+        <div class="stat-cards">
+            <div class="card science">
+                <h3>AI Concepts</h3>
+                <p>Course Duration: 12 Weeks<br>NPTEL Repository</p>
+            </div>
+            <div class="card maths">
+                <h3>Techniques</h3>
+                <p>Study Time: Active<br>Total Files: 12</p>
+            </div>
+        </div>
+
+        <footer>
+            <a href="https://github.com/shahrishabh1513-jsk" target="_blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/2504/2504911.png" width="45"/>
+            </a>
+            <a href="https://www.linkedin.com/in/rishabh-alpeshabhai-shah-91b9072a6/" target="_blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="45"/>
+            </a>
+        </footer>
+    </div>
+
+    <div class="content-panel">
+        <div class="user-profile">
+            <img src="https://ui-avatars.com/api/?name=Rishabh+Shah&background=4db6ac&color=fff" alt="User Avatar">
+            <div>
+                <strong>Rishabh Shah</strong><br>
+                <small>Student | NPTEL AI</small>
+            </div>
+        </div>
+
+        <div class="toc-header">
+            <h3>Computer</h3>
+            <p><small>Table of content</small></p>
+        </div>
+
+        <div id="pdf-list-container">
+            </div>
+    </div>
+</div>
+
+<script>
+    // Path configuration from your prompt
+    const basePath = "file:///D:/PPSU_PROJECT/Day_62_NPTEL%20AI%20Concepts%20&%20Techniques%20Learning%20Platform/Weekwise%20Summary/";
+    
+    const container = document.getElementById('pdf-list-container');
+
+    // Generating 12 weeks based on your image naming convention
+    for (let i = 1; i <= 12; i++) {
+        const fileName = `Week_${i}_Artificial_Intelligence_Notes.pdf`;
+        const fullPath = basePath + fileName;
+
+        // Create UI elements
+        const link = document.createElement('a');
+        link.href = fullPath;
+        link.className = 'pdf-link';
+        link.target = "_blank";
+
+        const formattedNum = i < 10 ? '0' + i : i;
+
+        link.innerHTML = `
+            <div class="week-num">${formattedNum}</div>
+            <div class="file-info">
+                <strong>Week_${i}_Artificial_Intelligence_Notes</strong><br>
+                <div>Study time: 34 min</div>
+            </div>
+        `;
+
+        container.appendChild(link);
+    }
+</script>
+
+</body>
+</html>
